@@ -1,4 +1,4 @@
-Folder "InputData" contains raw counts and associated files for each of the following CRISPR CDKO studies:
+Folder "InputData" contains raw counts and associated files for each of the following CRISPR CDKO studies:\n
 Dede,M. et al. (2020) Multiplex enCas12a screens detect functional buffering among paralogs otherwise masked in monogenic Cas9 knockout screens. Genome Biol., 21.
 Parrish,P.C.R. et al. (2021) Discovery of synthetic lethal and tumor suppressor paralog pairs in the human genome. Cell Rep., 36, 109597.
 Gonatopoulos-Pournatzis,T. et al. (2020) Genetic interaction mapping and exon-resolution functional genomics with a hybrid Cas9--Cas12a platform. Nat. Biotechnol., 38, 638–648.
